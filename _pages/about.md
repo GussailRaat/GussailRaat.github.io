@@ -14,7 +14,7 @@ selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -31,16 +31,20 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
     <h3>Contact</h3>
     <p>📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
     <p>🏫 MBZUAI, Abu Dhabi, UAE</p>
+    <h3 class="mt-4">Bio</h3>
+    <table class="table table-sm table-borderless">
+      <tr><td>2025–now</td><td>Postdoctoral Associate</td><td><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
+      <tr><td>2025–now</td><td>Research Engineer</td><td><a href="https://www.etihad.com/">Etihad Airways</a>, UAE</td></tr>
+      <tr><td>2024–25</td><td>Senior AI Engineer</td><td><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a>, India</td></tr>
+      <tr><td>2024</td><td>AI/ML Scientist</td><td><a href="https://adroitent.ai/">Adroitent, Inc.</a>, USA</td></tr>
+      <tr><td>2018–25</td><td>PhD in CSE</td><td><a href="https://www.iitp.ac.in/">IIT Patna</a>, India</td></tr>
+      <tr><td>2015–17</td><td>M.Tech in CSE</td><td><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>, India</td></tr>
+    </table>
   </div>
   <div class="col-md-7">
-    <h3>Bio</h3>
-    <table class="table table-sm table-borderless">
-      <tr><td>2025--now</td><td>Postdoctoral Associate</td><td><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
-      <tr><td>2025--now</td><td>Research Engineer</td><td><a href="https://www.etihad.com/">Etihad Airways</a>, UAE</td></tr>
-      <tr><td>2024--25</td><td>Senior AI Engineer</td><td><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a>, India</td></tr>
-      <tr><td>2024</td><td>AI/ML Scientist</td><td><a href="https://adroitent.ai/">Adroitent, Inc.</a>, USA</td></tr>
-      <tr><td>2018--25</td><td>PhD in CSE</td><td><a href="https://www.iitp.ac.in/">IIT Patna</a>, India</td></tr>
-      <tr><td>2015--17</td><td>M.Tech in CSE</td><td><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>, India</td></tr>
-    </table>
+    <h3 style="color: gray;">Latest News</h3>
+    <div style="font-size: 0.85em;">
+    {% include news.liquid limit=true %}
+    </div>
   </div>
 </div>
