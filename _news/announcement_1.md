@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined **MBZUAI** as a Postdoctoral Research Associate, working with [Dr. Nils Lukas](https://nilslukas.com/) on reasoning models, privacy/security of LLMs, and multimodal analysis.
