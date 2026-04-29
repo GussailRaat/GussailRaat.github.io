@@ -26,15 +26,12 @@ latest_posts:
 <p style="margin-bottom: 0.1rem;">📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
 <p style="margin-bottom: 0.1rem;">🏫 MBZUAI, Abu Dhabi, UAE</p>
 <h3>Bio</h3>
-<table class="table table-sm table-borderless" style="font-size: 0.9em; white-space: nowrap; line-height: 1.2;">
-<style>
-  .table-sm td { padding: 0.1rem 0.3rem; }
-</style>
-  <tr><td>2025–now</td><td>&nbsp;&nbsp;Postdoctoral Associate,</td><td><a href="https://mbzuai.ac.ae/">MBZUAI</a></td></tr>
-  <tr><td>2024–25</td><td>&nbsp;&nbsp;Senior AI Engineer,</td><td><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></td></tr>
-  <tr><td>2024</td><td>&nbsp;&nbsp;AI/ML Scientist,</td><td><a href="https://adroitent.ai/">Adroitent, Inc.</a></td></tr>
-  <tr><td>2018–25</td><td>&nbsp;&nbsp;PhD in CSE,</td><td><a href="https://www.iitp.ac.in/">IIT Patna</a></td></tr>
-  <tr><td>2015–17</td><td>&nbsp;&nbsp;M.Tech in CSE,</td><td><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a></td></tr>
+<table style="font-size: 0.9em; white-space: nowrap; border-collapse: collapse;">
+  <tr><td style="padding: 2px 8px 2px 0;">2025–now</td><td style="padding: 2px 8px;">Postdoctoral Associate,</td><td style="padding: 2px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a></td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2024–25</td><td style="padding: 2px 8px;">Senior AI Engineer,</td><td style="padding: 2px 0;"><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2024</td><td style="padding: 2px 8px;">AI/ML Scientist,</td><td style="padding: 2px 0;"><a href="https://adroitent.ai/">Adroitent, Inc.</a></td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2018–25</td><td style="padding: 2px 8px;">PhD in CSE,</td><td style="padding: 2px 0;"><a href="https://www.iitp.ac.in/">IIT Patna</a></td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2015–17</td><td style="padding: 2px 8px;">M.Tech in CSE,</td><td style="padding: 2px 0;"><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a></td></tr>
 </table>
 
 <div style="clear: both;"></div>
@@ -46,6 +43,12 @@ Hi, I'm Dushyant. I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae
 My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (iii) **Multimodal analysis**, and (iv) **Human-AI Interaction**.
 
 <h3>Latest News</h3>
-<div style="font-size: 0.6em; color: gray;">
+<div class="news-small">
 {% include news.liquid limit=true %}
 </div>
+<style>
+.news-small, .news-small table, .news-small td, .news-small th, .news-small a, .news-small p {
+  font-size: 0.6rem !important;
+  color: gray !important;
+}
+</style>
