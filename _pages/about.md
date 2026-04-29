@@ -7,25 +7,48 @@ subtitle: Postdoctoral Associate at <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info:
 
 selected_papers: false
-social: true # includes social icons at the bottom of the page
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true
-  limit: 3
 ---
 
-I am currently a **Postdoctoral Associate** at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Abu Dhabi, UAE, working with [Dr. Nils Lukas](https://nilslukas.github.io/) in the Department of Machine Learning. My current research investigates **Reasoning in Large Language Models**, **Privacy and Security of LLMs** (e.g., membership inference, adversarial robustness, watermarking, differentially private fine-tuning), and **Multimodal Analysis**. In parallel, I am leading an applied research collaboration with **Etihad Airways** on the development of a domain-specialized **conversational chatbot** for customer-facing aviation services.
+### Contact
 
-Prior to this, I completed my doctoral studies at [IIT Patna](https://www.iitp.ac.in/), specializing in Artificial Intelligence, Natural Language Processing, and Computer Vision, under the guidance of [Prof. Asif Ekbal](https://iitj.irins.org/profile/62446) ([IIT Jodhpur](https://www.iitj.ac.in/main/en/iitj)) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) ([IIT Bombay](https://www.iitb.ac.in/)). My doctoral research focused on **Multimodal Analysis and Fusion Techniques**, including Multimodal Sentiment and Emotion Analysis, Sarcasm Detection and Cause Extraction, Causal Reasoning, Video Summarization, Pretraining/Finetuning Multimodal LLMs, and RAG-based Chatbot Development. Alongside my postdoctoral research, I continue to explore **Multimodal Mathematical and Logical Reasoning**, **Human-AI Interaction**, **Virtual Teaching Assistant (AI-powered tutoring system)** and **Prompt-based Audio/Video Generation and Editing**, with the goal of building intuitive, transparent, and context-aware AI systems that seamlessly integrate perceptual and linguistic understanding.
+:email: Dushyant.Chauhan@mbzuai.ac.ae
 
-**Google Scholar Citations**, a recognized benchmark in Computer Science and Engineering, indicates approximately **1,300 career citations**, with an **h-index of 12** and an **i10-index of 14**.
+:school: MBZUAI, Abu Dhabi, UAE
+
+---
+
+### Bio
+
+| | | |
+|:---|:---|:---|
+| 2026--now | Postdoctoral Associate | [MBZUAI](https://mbzuai.ac.ae/), UAE |
+| 2025 | Founder & CEO | [CortexTor Labs](https://cortextor.com/) |
+| 2024--25 | Senior AI Engineer | KrtrimaIQ, India |
+| 2024 | AI/ML Scientist | Adroitent, Inc., USA |
+| 2018--25 | PhD in CSE | [IIT Patna](https://www.iitp.ac.in/), India |
+| 2015--17 | M.Tech in CSE | [NIT Rourkela](https://www.nitrkl.ac.in/), India |
+
+---
+
+### About
+
+I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae/) working with [Dr. Nils Lukas](https://nilslukas.github.io/). My research focuses on three areas: **reasoning in LLMs** (chain-of-thought, multi-step, faithfulness), **privacy and security of LLMs** (membership inference, adversarial robustness, watermarking, differential privacy), and **multimodal analysis**. I am also leading an applied collaboration with **Etihad Airways** on a domain-specialized conversational chatbot for aviation services.
+
+I also founded [CortexTor Labs](https://cortextor.com/), a startup building AI-adaptive systems for education -- multimodal RAG-based QA, mathematical reasoning, video generation, and visual storytelling.
+
+My PhD at [IIT Patna](https://www.iitp.ac.in/) was supervised by [Prof. Asif Ekbal](https://iitj.irins.org/profile/62446) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/), focused on multimodal analysis and fusion techniques.
+
+**Google Scholar** shows approximately **1,300 citations**, **h-index 12**, **i10-index 14**.
