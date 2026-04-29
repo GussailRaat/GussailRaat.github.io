@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate at <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu Dhabi, UAE
+subtitle: Postdoctoral Associate at <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, Abu Dhabi, UAE
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>MBZUAI, Masdar City</p>
-    <p>Abu Dhabi, UAE</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,12 +20,12 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am a Postdoctoral Research Associate at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), UAE, working under the supervision of [Dr. Nils Lukas](https://nilslukas.github.io/). My current research focuses on **reasoning models**, **privacy and security of large language models (LLMs)**, and **multimodal analysis**. I am also working on an industry project with **Etihad Airways** on conversational AI chatbots.
+I am currently a **Postdoctoral Associate** at the [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), Abu Dhabi, UAE, working with [Dr. Nils Lukas](https://nilslukas.github.io/) in the Department of Machine Learning. My current research investigates **Reasoning in Large Language Models**, **Privacy and Security of LLMs** (e.g., membership inference, adversarial robustness, watermarking, differentially private fine-tuning), and **Multimodal Analysis**. In parallel, I am leading an applied research collaboration with **Etihad Airways** on the development of a domain-specialized **conversational chatbot** for customer-facing aviation services.
 
-I completed my doctoral studies at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/), specializing in Artificial Intelligence, Natural Language Processing, and Computer Vision, under the guidance of [Prof. Asif Ekbal](https://iitj.irins.org/profile/62446) (IIT Jodhpur) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (IIT Bombay). My doctoral research focused on *Investigating Multimodal Analysis and Fusion Techniques*, including multimodal sentiment and emotion analysis, sarcasm detection and cause extraction, causal reasoning, video summarization, multimodal LLMs for enhanced response generation and chatbot development, multimodal RAG systems, and more.
+Prior to this, I completed my doctoral studies at [IIT Patna](https://www.iitp.ac.in/), specializing in Artificial Intelligence, Natural Language Processing, and Computer Vision, under the guidance of [Prof. Asif Ekbal](https://iitj.irins.org/profile/62446) ([IIT Jodhpur](https://www.iitj.ac.in/main/en/iitj)) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) ([IIT Bombay](https://www.iitb.ac.in/)). My doctoral research focused on **Multimodal Analysis and Fusion Techniques**, including Multimodal Sentiment and Emotion Analysis, Sarcasm Detection and Cause Extraction, Causal Reasoning, Video Summarization, Pretraining/Finetuning Multimodal LLMs, and RAG-based Chatbot Development. Alongside my postdoctoral research, I continue to explore **Multimodal Mathematical and Logical Reasoning**, **Human-AI Interaction**, **Virtual Teaching Assistant (AI-powered tutoring system)** and **Prompt-based Audio/Video Generation and Editing**, with the goal of building intuitive, transparent, and context-aware AI systems that seamlessly integrate perceptual and linguistic understanding.
 
-**Google Scholar Citations** shows more than **900 career citations**, with an **h-index of 12** and an **i10-index of 14**.
+**Google Scholar Citations**, a recognized benchmark in Computer Science and Engineering, indicates approximately **1,300 career citations**, with an **h-index of 12** and an **i10-index of 14**.

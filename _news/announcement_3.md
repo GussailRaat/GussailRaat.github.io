@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-01
+date: 2025-04-01
 inline: true
 related_posts: false
 ---
 
-Successfully defended my Ph.D. thesis on *Investigating Multimodal Analysis and Fusion Techniques* at IIT Patna.
+Paper accepted at **NAACL 2025** (Rank A) -- "Target-Augmented Shared Fusion-based Multimodal Sarcasm Explanation Generation".

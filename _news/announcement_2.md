@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-01
+date: 2025-05-01
 inline: true
 related_posts: false
 ---
 
-Started an industry collaboration with **Etihad Airways** on conversational AI chatbots at MBZUAI.
+Paper accepted at **IJCAI 2025** (Rank A*) -- "What is Beneath Misogyny: Misogynous Memes Classification and Explanation".

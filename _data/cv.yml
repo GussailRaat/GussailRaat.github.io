@@ -1,16 +1,16 @@
 cv:
   name: Dushyant Singh Chauhan
-  label: Postdoctoral Research Associate
-  email: dushyantchauhan27@gmail.com
+  label: Postdoctoral Associate
+  email: Dushyant.Chauhan@mbzuai.ac.ae
   location: Abu Dhabi, UAE
   image: ""
-  summary: Postdoctoral Research Associate at MBZUAI, UAE. Research on reasoning models, privacy/security of LLMs, and multimodal analysis.
+  summary: Postdoctoral Associate at MBZUAI, UAE. Research on reasoning in LLMs, privacy/security of LLMs, and multimodal analysis.
 
   social_networks:
     - network: GitHub
       username: GussailRaat
     - network: LinkedIn
-      username: dushyant-singh-chauhan-886688127
+      username: gussailraat
 
   address:
     city: Abu Dhabi
@@ -25,8 +25,9 @@ cv:
         area: Computer Science & Engineering
         studyType: Ph.D.
         start_date: 2018
-        end_date: 2024
+        end_date: 2025
         highlights:
+          - "CGPA: 7.79/10"
           - "Thesis: Investigating Multimodal Analysis and Fusion Techniques"
           - "Supervisors: Prof. Asif Ekbal (IIT Jodhpur) and Prof. Pushpak Bhattacharyya (IIT Bombay)"
 
@@ -51,24 +52,40 @@ cv:
 
     Experience:
       - company: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
-        position: Postdoctoral Research Associate
+        position: Postdoctoral Associate
         location: Abu Dhabi, UAE
+        start_date: 2026
+        end_date: Present
+        summary: Working with Dr. Nils Lukas on reasoning in LLMs, privacy/security of LLMs, and multimodal analysis. Industry collaboration with Etihad Airways on conversational AI chatbots.
+        highlights:
+          - Reasoning in Large Language Models
+          - Privacy and Security of LLMs
+          - Multimodal Analysis
+          - Conversational AI (Etihad Airways collaboration)
+
+      - company: CortexTor Labs, Pvt. Ltd.
+        position: Founder & CEO
+        location: Noida, India
         start_date: 2025
         end_date: Present
-        summary: Working under Dr. Nils Lukas on reasoning models, privacy/security of LLMs, and multimodal analysis. Industry collaboration with Etihad Airways on conversational AI chatbots.
+        summary: AI-adaptive systems for education - multimodal RAG-based QA, mathematical reasoning, video generation, and visual storytelling.
+
+      - company: KrtrimaIQ, Ltd.
+        position: Senior AI Engineer
+        location: Bangalore, India
+        start_date: 2024
+        end_date: 2025
+        summary: Agentic-AI frameworks, LLM fine-tuning, RAG pipelines, mathematical reasoning, and AI-powered teaching assistant.
         highlights:
-          - Reasoning models
-          - Privacy and security of LLMs
-          - Multimodal analysis
-          - Conversational AI (Etihad Airways project)
+          - Mathematical Reasoning (Olympiad-level)
+          - Teaching Assistant for exam question generation
 
       - company: Adroitent, Inc.
         position: AI/ML Scientist
         location: Princeton, New Jersey, USA
         start_date: 2024
         end_date: 2024
-        highlights:
-          - AI/ML research and development
+        summary: Routing RAG agents, LLM integration, DROIT search engine, video interview analysis, and medical domain AI solutions.
 
       - company: Indian Institute of Technology Patna
         position: Senior Research Fellow
@@ -94,12 +111,17 @@ cv:
       - name: Deep Learning & AI
         level: Expert
         icon: fa-solid fa-brain
-        keywords: "PyTorch, Keras, Transformers, LLMs, Multimodal LLMs, RAG, Multi-agent RAG"
+        keywords: "PyTorch, Keras, Transformers, LLMs, Multimodal LLMs, Reasoning in LLMs, RAG, Multi-agent RAG"
+
+      - name: LLM Privacy & Security
+        level: Expert
+        icon: fa-solid fa-shield-halved
+        keywords: "Membership Inference, Adversarial Robustness, Watermarking, Differential Privacy, Jailbreaks, Prompt Injection"
 
       - name: NLP & Computer Vision
         level: Expert
         icon: fa-solid fa-language
-        keywords: "Sentiment Analysis, Emotion Recognition, Sarcasm Detection, Multimodal Fusion, Person Re-identification"
+        keywords: "Sentiment Analysis, Emotion Recognition, Sarcasm Detection, Multimodal Fusion, Conversational AI"
 
       - name: Programming
         level: Expert
@@ -115,17 +137,17 @@ cv:
     Interests:
       - name: AI & NLP Research
         icon: fa-solid fa-tag
-        keywords: "Reasoning Models, Privacy/Security of LLMs, Multimodal Analysis, Conversational AI, Human-AI Interaction"
+        keywords: "Reasoning in LLMs, Privacy/Security of LLMs, Multimodal Analysis, Conversational AI, Human-AI Interaction, Mathematical Reasoning"
 
     References:
+      - name: Dr. Nils Lukas
+        icon: fa-solid fa-user
+        reference: "Postdoctoral Supervisor. Department of Machine Learning, Mohamed bin Zayed University of AI, UAE. Email: nils.lukas@mbzuai.ac.ae"
+
       - name: Prof. Asif Ekbal
         icon: fa-solid fa-user
-        reference: "Thesis Supervisor. Department of Computer Science & Engineering, Indian Institute of Technology Jodhpur, India. Email: asif@iitp.ac.in"
+        reference: "PhD Thesis Supervisor. Department of Computer Science & Engineering, Indian Institute of Technology Jodhpur, India. Email: asif@iitj.ac.in"
 
       - name: Prof. Pushpak Bhattacharyya
         icon: fa-solid fa-user
-        reference: "Thesis Supervisor. Department of Computer Science & Engineering, Indian Institute of Technology Bombay, India. Email: pb@cse.iitb.ac.in"
-
-      - name: Dr. Tirthankar Ghosal
-        icon: fa-solid fa-user
-        reference: "Research Collaboration. Department of Computer Science & Engineering, Oak Ridge National Laboratory, United States. Email: ghosalt@ornl.gov"
+        reference: "PhD Thesis Supervisor. Department of Computer Science & Engineering, Indian Institute of Technology Bombay, India. Email: pb@cse.iitb.ac.in"
