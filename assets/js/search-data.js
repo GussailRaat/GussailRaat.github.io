@@ -391,14 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-successfully-defended-my-ph-d-thesis-on-investigating-multimodal-analysis-and-fusion-techniques-at-iit-patna",
-          title: 'Successfully defended my Ph.D. thesis on Investigating Multimodal Analysis and Fusion Techniques at...',
+            },},{id: "news-paper-accepted-at-naacl-2025-rank-a-target-augmented-shared-fusion-based-multimodal-sarcasm-explanation-generation",
+          title: 'Paper accepted at NAACL 2025 (Rank A) – “Target-Augmented Shared Fusion-based Multimodal Sarcasm...',
           description: "",
-          section: "News",},{id: "news-joined-mbzuai-as-a-postdoctoral-research-associate-working-with-dr-nils-lukas-on-reasoning-models-privacy-security-of-llms-and-multimodal-analysis",
-          title: 'Joined MBZUAI as a Postdoctoral Research Associate, working with Dr. Nils Lukas on...',
+          section: "News",},{id: "news-paper-accepted-at-ijcai-2025-rank-a-what-is-beneath-misogyny-misogynous-memes-classification-and-explanation",
+          title: 'Paper accepted at IJCAI 2025 (Rank A*) – “What is Beneath Misogyny: Misogynous...',
           description: "",
-          section: "News",},{id: "news-started-an-industry-collaboration-with-etihad-airways-on-conversational-ai-chatbots-at-mbzuai",
-          title: 'Started an industry collaboration with Etihad Airways on conversational AI chatbots at MBZUAI....',
+          section: "News",},{id: "news-joined-mbzuai-as-a-postdoctoral-associate-working-with-dr-nils-lukas-on-reasoning-in-llms-privacy-security-of-llms-and-multimodal-analysis",
+          title: 'Joined MBZUAI as a Postdoctoral Associate, working with Dr. Nils Lukas on reasoning...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -460,7 +460,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%75%73%68%79%61%6E%74%63%68%61%75%68%61%6E%32%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%44%75%73%68%79%61%6E%74.%43%68%61%75%68%61%6E@%6D%62%7A%75%61%69.%61%63.%61%65", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -481,7 +481,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/dushyant-singh-chauhan-886688127", "_blank");
+          window.open("https://www.linkedin.com/in/gussailraat", "_blank");
         },
       },{
         id: 'social-dblp',
