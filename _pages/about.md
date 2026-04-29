@@ -26,6 +26,8 @@ Hi, I'm Dushyant. I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae
 
 My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (iii) **Multimodal analysis**, and (iv) **Human-AI Interaction**.
 
+<div style="clear: both;"></div>
+
 <div class="row mt-4">
   <div class="col-md-5">
     <h3>Contact</h3>
