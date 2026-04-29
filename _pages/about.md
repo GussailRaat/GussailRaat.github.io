@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Research Associate at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), UAE, working under the supervision of [Dr. Nils Lukas](https://nilslukas.com/). My current research focuses on **reasoning models**, **privacy and security of large language models (LLMs)**, and **multimodal analysis**. I am also working on an industry project with **Etihad Airways** on conversational AI chatbots.
+I am a Postdoctoral Research Associate at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), UAE, working under the supervision of [Dr. Nils Lukas](https://nilslukas.github.io/). My current research focuses on **reasoning models**, **privacy and security of large language models (LLMs)**, and **multimodal analysis**. I am also working on an industry project with **Etihad Airways** on conversational AI chatbots.
 
 I completed my doctoral studies at the [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in/), specializing in Artificial Intelligence, Natural Language Processing, and Computer Vision, under the guidance of [Prof. Asif Ekbal](https://iitj.irins.org/profile/62446) (IIT Jodhpur) and [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) (IIT Bombay). My doctoral research focused on *Investigating Multimodal Analysis and Fusion Techniques*, including multimodal sentiment and emotion analysis, sarcasm detection and cause extraction, causal reasoning, video summarization, multimodal LLMs for enhanced response generation and chatbot development, multimodal RAG systems, and more.
 
