@@ -25,7 +25,7 @@ latest_posts:
 <h3>Contact</h3>
 <p style="margin-bottom: 0.1rem;">📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
 <p style="margin-bottom: 0.1rem;">🏫 MBZUAI, Abu Dhabi, UAE</p>
-<h3>Bio</h3>
+<h3 style="margin-top: 1rem;">Bio</h3>
 <table style="font-size: 0.9em; white-space: nowrap; border-collapse: collapse;">
   <tr><td style="padding: 2px 8px 2px 0;">2025–now</td><td style="padding: 2px 8px;">Postdoctoral Associate,</td><td style="padding: 2px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a></td></tr>
   <tr><td style="padding: 2px 8px 2px 0;">2024–25</td><td style="padding: 2px 8px;">Senior AI Engineer,</td><td style="padding: 2px 0;"><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></td></tr>
@@ -48,7 +48,7 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
 </div>
 <style>
 .news-small, .news-small table, .news-small td, .news-small th, .news-small a, .news-small p {
-  font-size: 0.6rem !important;
+  font-size: 0.7rem !important;
   color: gray !important;
 }
 </style>
