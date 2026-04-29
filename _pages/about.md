@@ -42,13 +42,14 @@ Hi, I'm Dushyant. I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae
 
 My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (iii) **Multimodal analysis**, and (iv) **Human-AI Interaction**.
 
+<hr>
 <h3>Latest News</h3>
 <div class="news-small">
 {% include news.liquid limit=true %}
 </div>
 <style>
 .news-small, .news-small table, .news-small td, .news-small th, .news-small a, .news-small p {
-  font-size: 0.7rem !important;
+  font-size: 0.8rem !important;
   color: gray !important;
 }
 </style>
