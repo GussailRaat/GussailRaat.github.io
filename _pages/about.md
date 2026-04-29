@@ -23,15 +23,18 @@ latest_posts:
 ---
 
 <h3>Contact</h3>
-<p>📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
-<p style="margin-bottom: 0;">🏫 MBZUAI, Abu Dhabi, UAE</p>
+<p style="margin-bottom: 0.1rem;">📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
+<p style="margin-bottom: 0.1rem;">🏫 MBZUAI, Abu Dhabi, UAE</p>
 <h3>Bio</h3>
-<table class="table table-sm table-borderless">
-  <tr><td>2025–now</td><td>Postdoctoral Associate</td><td><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
-  <tr><td>2024–25</td><td>Senior AI Engineer</td><td><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a>, India</td></tr>
-  <tr><td>2024</td><td>AI/ML Scientist</td><td><a href="https://adroitent.ai/">Adroitent, Inc.</a>, USA</td></tr>
-  <tr><td>2018–25</td><td>PhD in CSE</td><td><a href="https://www.iitp.ac.in/">IIT Patna</a>, India</td></tr>
-  <tr><td>2015–17</td><td>M.Tech in CSE</td><td><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>, India</td></tr>
+<table class="table table-sm table-borderless" style="font-size: 0.9em; white-space: nowrap; line-height: 1.2;">
+<style>
+  .table-sm td { padding: 0.1rem 0.3rem; }
+</style>
+  <tr><td>2025–now</td><td>&nbsp;&nbsp;Postdoctoral Associate,</td><td><a href="https://mbzuai.ac.ae/">MBZUAI</a></td></tr>
+  <tr><td>2024–25</td><td>&nbsp;&nbsp;Senior AI Engineer,</td><td><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></td></tr>
+  <tr><td>2024</td><td>&nbsp;&nbsp;AI/ML Scientist,</td><td><a href="https://adroitent.ai/">Adroitent, Inc.</a></td></tr>
+  <tr><td>2018–25</td><td>&nbsp;&nbsp;PhD in CSE,</td><td><a href="https://www.iitp.ac.in/">IIT Patna</a></td></tr>
+  <tr><td>2015–17</td><td>&nbsp;&nbsp;M.Tech in CSE,</td><td><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a></td></tr>
 </table>
 
 <div style="clear: both;"></div>
