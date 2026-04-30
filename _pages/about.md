@@ -49,7 +49,7 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
 }
 .post-title { font-size: 2rem !important; }
 @media (min-width: 576px) {
-  .profile { width: 20% !important; }
+  .profile { width: 40% !important; }
 }
 .social .contact-icons { font-size: 2rem !important; }
 .social .contact-icons a img,
