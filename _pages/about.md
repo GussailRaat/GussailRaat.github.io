@@ -22,6 +22,10 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+  .profile.float-right { margin-top: -120px; }
+</style>
+
 <h3>Bio</h3>
 <table style="font-size: 0.95em; border-collapse: collapse;">
   <tr><td style="padding: 4px 16px 4px 0;">2025–now</td><td style="padding: 4px 16px;">Postdoctoral Associate,</td><td style="padding: 4px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
