@@ -26,8 +26,8 @@ nav_order: 4
 }
 .contact-form h3 { margin-top: 0; margin-bottom: 0.5rem; font-size: 1.2rem; }
 .contact-form .intro { color: gray; font-size: 0.9rem; margin-bottom: 1.2rem; }
-.contact-form .form-row { display: flex; gap: 1rem; margin-bottom: 0.9rem; }
-.contact-form .form-row > div { flex: 1; }
+.contact-form .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.9rem 1rem; }
+.contact-form .form-grid .full { grid-column: 1 / -1; }
 .contact-form label {
   display: block;
   font-weight: 500;
@@ -84,7 +84,7 @@ nav_order: 4
   <h3>Contact Me</h3>
   <p class="intro">Have a question or want to collaborate? Fill out the form below.</p>
 
-  <div class="form-row">
+  <div class="form-grid">
     <div>
       <label for="first_name">First Name <span style="color: red;">*</span></label>
       <input type="text" id="first_name" name="first_name" required>
@@ -93,9 +93,6 @@ nav_order: 4
       <label for="last_name">Last Name</label>
       <input type="text" id="last_name" name="last_name">
     </div>
-  </div>
-
-  <div class="form-row">
     <div>
       <label for="email">Email <span style="color: red;">*</span></label>
       <input type="email" id="email" name="email" required>
@@ -104,11 +101,10 @@ nav_order: 4
       <label for="phone">Phone</label>
       <input type="tel" id="phone" name="phone">
     </div>
-  </div>
-
-  <div class="field">
-    <label for="message">Message</label>
-    <textarea id="message" name="message"></textarea>
+    <div class="full">
+      <label for="message">Message</label>
+      <textarea id="message" name="message"></textarea>
+    </div>
   </div>
 
   <div class="submit-row">
