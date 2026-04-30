@@ -22,16 +22,13 @@ latest_posts:
   enabled: false
 ---
 
-<h3>Contact</h3>
-<p style="margin-bottom: 0.1rem;">📧 Dushyant.Chauhan@mbzuai.ac.ae</p>
-<p style="margin-bottom: 0.1rem;">🏫 MBZUAI, Abu Dhabi, UAE</p>
-<h3 style="margin-top: 1rem;">Bio</h3>
+<h3>Bio</h3>
 <table style="font-size: 0.9em; white-space: nowrap; border-collapse: collapse;">
-  <tr><td style="padding: 2px 8px 2px 0;">2025–now</td><td style="padding: 2px 8px;">Postdoctoral Associate,</td><td style="padding: 2px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a></td></tr>
-  <tr><td style="padding: 2px 8px 2px 0;">2024–25</td><td style="padding: 2px 8px;">Senior AI Engineer,</td><td style="padding: 2px 0;"><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></td></tr>
-  <tr><td style="padding: 2px 8px 2px 0;">2024</td><td style="padding: 2px 8px;">AI/ML Scientist,</td><td style="padding: 2px 0;"><a href="https://adroitent.ai/">Adroitent, Inc.</a></td></tr>
-  <tr><td style="padding: 2px 8px 2px 0;">2018–25</td><td style="padding: 2px 8px;">PhD in CSE,</td><td style="padding: 2px 0;"><a href="https://www.iitp.ac.in/">IIT Patna</a></td></tr>
-  <tr><td style="padding: 2px 8px 2px 0;">2015–17</td><td style="padding: 2px 8px;">M.Tech in CSE,</td><td style="padding: 2px 0;"><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a></td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2025–now</td><td style="padding: 2px 8px;">Postdoctoral Associate,</td><td style="padding: 2px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2024–25</td><td style="padding: 2px 8px;">Senior AI Engineer,</td><td style="padding: 2px 0;"><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a>, India</td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2024</td><td style="padding: 2px 8px;">AI/ML Scientist,</td><td style="padding: 2px 0;"><a href="https://adroitent.ai/">Adroitent, Inc.</a>, India</td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2018–25</td><td style="padding: 2px 8px;">PhD in CSE,</td><td style="padding: 2px 0;"><a href="https://www.iitp.ac.in/">IIT Patna</a>, India</td></tr>
+  <tr><td style="padding: 2px 8px 2px 0;">2015–17</td><td style="padding: 2px 8px;">M.Tech in CSE,</td><td style="padding: 2px 0;"><a href="https://www.nitrkl.ac.in/">NIT Rourkela</a>, India</td></tr>
 </table>
 
 <div style="clear: both;"></div>
