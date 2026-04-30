@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -399,6 +406,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-mbzuai-as-a-postdoctoral-associate-working-with-dr-nils-lukas-on-reasoning-in-llms-privacy-security-of-llms-and-multimodal-analysis",
           title: 'Joined MBZUAI as a Postdoctoral Associate, working with Dr. Nils Lukas on reasoning...',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-at-ijcai-2026-rank-a-addressing-overcommitment-in-the-reasoning-of-gendered-economic-memes-under-multimodal-ambiguity",
+          title: 'Paper accepted at IJCAI 2026 (Rank A*) – “Addressing Overcommitment in the Reasoning...',
           description: "",
           section: "News",},{id: "projects-mbzuai-x-etihad-airways",
           title: 'MBZUAI x Etihad Airways',
