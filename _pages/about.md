@@ -48,6 +48,9 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
   color: gray !important;
 }
 .post-title { font-size: 2rem !important; }
+@media (min-width: 576px) {
+  .profile { width: 22% !important; }
+}
 .social .contact-icons { font-size: 2rem !important; }
 .social .contact-icons a img,
 .social .contact-icons a svg { width: 1.8rem !important; height: 1.8rem !important; }
