@@ -22,10 +22,6 @@ latest_posts:
   enabled: false
 ---
 
-<style>
-  .profile.float-right { margin-top: -120px; }
-</style>
-
 <h3>Bio</h3>
 <table style="font-size: 0.95em; border-collapse: collapse;">
   <tr><td style="padding: 4px 16px 4px 0;">2025–now</td><td style="padding: 4px 16px;">Postdoctoral Associate,</td><td style="padding: 4px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
@@ -54,4 +50,7 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
   font-size: 0.8rem !important;
   color: gray !important;
 }
+.social .contact-icons { font-size: 2rem !important; }
+.social .contact-icons a img,
+.social .contact-icons a svg { width: 1.8rem !important; height: 1.8rem !important; }
 </style>
