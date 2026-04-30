@@ -23,7 +23,7 @@ latest_posts:
 ---
 
 <h3>Bio</h3>
-<table style="font-size: 0.95em; border-collapse: collapse; width: 100%;">
+<table style="font-size: 0.95em; border-collapse: collapse;">
   <tr><td style="padding: 4px 16px 4px 0;">2025–now</td><td style="padding: 4px 16px;">Postdoctoral Associate,</td><td style="padding: 4px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
   <tr><td style="padding: 4px 16px 4px 0;">2024–25</td><td style="padding: 4px 16px;">Senior AI Engineer,</td><td style="padding: 4px 0;"><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a>, India</td></tr>
   <tr><td style="padding: 4px 16px 4px 0;">2024</td><td style="padding: 4px 16px;">AI/ML Scientist,</td><td style="padding: 4px 0;"><a href="https://adroitent.ai/">Adroitent, Inc.</a>, India</td></tr>
