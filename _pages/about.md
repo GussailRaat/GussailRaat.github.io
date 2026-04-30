@@ -22,6 +22,21 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+.post article p { text-align: justify; }
+.news-small, .news-small table, .news-small td, .news-small th, .news-small a, .news-small p {
+  font-size: 0.8rem !important;
+  color: gray !important;
+}
+.post-title { font-size: 2rem !important; }
+@media (min-width: 576px) {
+  .profile { width: 40% !important; }
+}
+.social .contact-icons { font-size: 2rem !important; }
+.social .contact-icons a img,
+.social .contact-icons a svg { width: 1.8rem !important; height: 1.8rem !important; }
+</style>
+
 <h3>Bio</h3>
 <table style="font-size: 0.95em; border-collapse: collapse;">
   <tr><td style="padding: 4px 16px 4px 0;">2025–now</td><td style="padding: 4px 16px;">Postdoctoral Associate,</td><td style="padding: 4px 0;"><a href="https://mbzuai.ac.ae/">MBZUAI</a>, UAE</td></tr>
@@ -42,16 +57,3 @@ My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (ii
 <div class="news-small">
 {% include news.liquid limit=true %}
 </div>
-<style>
-.news-small, .news-small table, .news-small td, .news-small th, .news-small a, .news-small p {
-  font-size: 0.8rem !important;
-  color: gray !important;
-}
-.post-title { font-size: 2rem !important; }
-@media (min-width: 576px) {
-  .profile { width: 40% !important; }
-}
-.social .contact-icons { font-size: 2rem !important; }
-.social .contact-icons a img,
-.social .contact-icons a svg { width: 1.8rem !important; height: 1.8rem !important; }
-</style>
