@@ -28,4 +28,8 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+
+  <div class="social" style="text-align: center; margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
+    <div class="contact-icons">{% social_links %}</div>
+  </div>
 </div>

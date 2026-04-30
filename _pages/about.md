@@ -33,7 +33,7 @@ latest_posts:
 
 <h3 style="margin-top: 1rem;">About</h3>
 
-Hi, I'm Dushyant. I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi, working with [Dr. Nils Lukas](https://nilslukas.github.io/). I am also leading an applied research collaboration with **Etihad Airways** on the development of a **multilingual conversational chatbot** for flight booking, customer support, and other aviation services. I received my PhD from [IIT Patna](https://www.iitp.ac.in/) under [Prof. Asif Ekbal](https://ekbalasif.github.io/) and [Late Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/), focused on multimodal analysis and fusion techniques.
+Hi, I'm Dushyant 👋. I am a Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae/) in Abu Dhabi, working with [Dr. Nils Lukas](https://nilslukas.github.io/). I am also leading an applied research collaboration with **Etihad Airways** on the development of a **multilingual conversational chatbot** for flight booking, customer support, and other aviation services. I received my PhD from [IIT Patna](https://www.iitp.ac.in/) under [Prof. Asif Ekbal](https://ekbalasif.github.io/) and [Late Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/), focused on multimodal analysis and fusion techniques.
 
 My research focuses on (i) **LLM reasoning**, (ii) **AI safety & security**, (iii) **Multimodal analysis**, and (iv) **Human-AI Interaction**.
 
