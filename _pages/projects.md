@@ -14,6 +14,8 @@ nav_order: 3
 .project-list .project-content { flex: 1; }
 .project-list .project-content strong { display: block; margin-bottom: 0.2rem; }
 .project-list .project-content p { font-size: 0.9em; margin: 0; color: #555; }
+.project-list .project-content a.title-link { color: inherit; }
+.project-list .project-content a.title-link:hover { text-decoration: underline; }
 </style>
 
 <div class="project-list">
@@ -24,7 +26,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Sep 2025 – Onward</div>
   <div class="project-content">
-    <strong>MBZUAI × Etihad Airways</strong>
+    <strong><a class="title-link" href="{{ '/projects/1_etihad/' | relative_url }}">MBZUAI × Etihad Airways</a></strong>
     <p>Leading an applied research collaboration on a <b>multilingual conversational chatbot</b> for flight booking, customer support, and other aviation services. Spans LLM fine-tuning, retrieval-augmented generation (RAG) over airline knowledge bases, and grounding for factual reliability.</p>
   </div>
 </div>
@@ -35,7 +37,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Dec 2024 – Apr 2025</div>
   <div class="project-content">
-    <strong><a href="https://www.krtrimaiq.ai/">KrtrimaIQ</a></strong>
+    <strong><a class="title-link" href="{{ '/projects/2_krtrimaiq/' | relative_url }}">KrtrimaIQ</a></strong>
     <p>Senior AI Engineer working on agentic-AI frameworks, LLM fine-tuning, and RAG pipelines. Led two key projects: <b>Mathematical Reasoning</b> for Olympiad-level problems in LaTeX, and <b>Teaching Assistant</b> for generating exam questions across school, college, and competitive levels.</p>
   </div>
 </div>
@@ -43,7 +45,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Feb 2024 – Nov 2024</div>
   <div class="project-content">
-    <strong><a href="https://adroitent.ai/">Adroitent, Inc.</a></strong>
+    <strong><a class="title-link" href="{{ '/projects/3_adroitent/' | relative_url }}">Adroitent, Inc.</a></strong>
     <p>AI/ML Scientist working on Routing RAG agents and integrating LLMs (LLaMA, GPT, Mistral) with indexing systems (ChromaDB, FAISS, Azure) for the <b>DROIT search engine</b>, profile-matching chatbot, and medical-domain AI (journal search, summarization, QA chatbot).</p>
   </div>
 </div>
@@ -54,7 +56,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Jul 2020 – Jun 2023</div>
   <div class="project-content">
-    <strong>Cyber Crime Prevention against Women and Children</strong>
+    <strong><a class="title-link" href="{{ '/projects/4_cybercrime/' | relative_url }}">Cyber Crime Prevention against Women and Children</a></strong>
     <p>Funded by the <b>Ministry of Home Affairs, India</b>. Two modules: (1) Multimodal &amp; multilingual sentiment/emotion analysis system for victims, and (2) AI-based interactive counseling chatbot for victims.</p>
   </div>
 </div>
@@ -62,7 +64,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Jul 2018 – Jun 2020</div>
   <div class="project-content">
-    <strong>Sentiment Analysis for Business Intelligence</strong>
+    <strong><a class="title-link" href="{{ '/projects/5_sentiment/' | relative_url }}">Sentiment Analysis for Business Intelligence</a></strong>
     <p>Funded by <b>SkyMap Global Pte Ltd, Singapore</b>. Deep learning-based sentiment analysis to identify client intentions toward closing deals and provide actionable business insights.</p>
   </div>
 </div>
@@ -70,7 +72,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Jul 2016 – Jun 2017</div>
   <div class="project-content">
-    <strong>Modeling Person Re-identification through Hypergraphs</strong>
+    <strong><a class="title-link" href="{{ '/projects/6_person_reid/' | relative_url }}">Modeling Person Re-identification through Hypergraphs</a></strong>
     <p>M.Tech thesis at NIT Rourkela. Recognizing and tracking individuals across non-overlapping camera views, addressing illumination changes, viewpoint variations, and scale variations.</p>
   </div>
 </div>
@@ -78,7 +80,7 @@ nav_order: 3
 <div class="project-row">
   <div class="project-date">Jul 2013 – Jun 2014</div>
   <div class="project-content">
-    <strong>Laser-Projected Virtual Piano (VIANO)</strong>
+    <strong><a class="title-link" href="{{ '/projects/7_viano/' | relative_url }}">Laser-Projected Virtual Piano (VIANO)</a></strong>
     <p>B.Tech project at MIET Meerut. A portable musical experience using laser projection and finger tracking to turn any surface into an interactive piano.</p>
   </div>
 </div>
